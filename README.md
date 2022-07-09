@@ -25,7 +25,7 @@ To contribute, follow the [contributing guidelines]()
 #### <em>Availiabilty</em>
 Octotree is available for download on [chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) and [mozilla](https://addons.mozilla.org/en-US/firefox/addon/octotree/)
   
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/octotree-extension.png)
+![Here is how the extension looks](https://github.com/NithinSGowda/extensions-4-every-developer/blob/master/octotree-extension.png)
 
 2. Check My Links Extension : This extension is a link checker that crawls through your webpage and looks for all things, links.
 Broken links, valid links, redirecting links, we got you covered.
@@ -38,7 +38,7 @@ Broken links, valid links, redirecting links, we got you covered.
 #### <em>Availability</em>
 Octotree is available for download on [chrome](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en) 
   
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/check-my-links-extension.png)
+![Here is how the extension looks](https://github.com/NithinSGowda/extensions-4-every-developer/blob/master/check-my-links-extension.png)
 
 3. Windows Resizer : This extension re-sizes the browser's window in order to emulate various resolutions.
 
@@ -52,7 +52,7 @@ Octotree is available for download on [chrome](https://chrome.google.com/webstor
 #### <em>Availability</em>
 Windows resizer is available for download on [chrome](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/windows-resizer-extension.png)
+![Here is how the extension looks](https://github.com/NithinSGowda/extensions-4-every-developer/blob/master/windows-resizer-extension.png)
  
 4.Color By Fardos: This extension allows you pick colors from websites, save colors & gradients, get matching shades and tints and create beautiful gradients.
  
@@ -67,7 +67,7 @@ Windows resizer is available for download on [chrome](https://chrome.google.com/
 #### <em>Availability</em>
 Color By Fardos is available for download on [chrome](https://chrome.google.com/webstore/detail/color-by-fardos-color-pic/iibpgpkhpfggipbacjfeijkloidhmiei)
  
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/colorbyfardos-extension.png)
+![Here is how the extension looks](https://github.com/NithinSGowda/extensions-4-every-developer/blob/master/colorbyfardos-extension.png)
 
 5.Css Viewer : This extension is a simple Css property viewer. Hover over any element and get all the css properties attached to it
 
@@ -77,7 +77,7 @@ Color By Fardos is available for download on [chrome](https://chrome.google.com/
 #### <em>Availability</em>
 Css  viewer is an available for download on [chrome](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/css-viewer-extension.png)
+![Here is how the extension looks](https://github.com/NithinSGowda/extensions-4-every-developer/blob/master/css-viewer-extension.png)
 
 6.Pesticide : This extension outlines every element on a page thereby allowing the user see a better placement on the page.
 
@@ -89,7 +89,7 @@ Css  viewer is an available for download on [chrome](https://chrome.google.com/w
 #### <em>Availability</em>
 Pesticide is available for download on [chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/pesticide-for-firefox/)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/pesticide-extension.png)
+![Here is how the extension looks](https://github.com/NithinSGowda/extensions-4-every-developer/blob/master/pesticide-extension.png)
 
 7. Wappalyzer : This extension is a technology profiler that shows you what websites and web applications ae built with. 
 
@@ -101,7 +101,7 @@ Pesticide is available for download on [chrome](https://chrome.google.com/websto
 #### <em>Availability</em>
 Wappalyzer is available for download on [chrome](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/wappalyzer-extension.png)
+![Here is how the extension looks](https://github.com/NithinSGowda/extensions-4-every-developer/blob/master/wappalyzer-extension.png)
 
 8.Screencastify : This extension helps to capture, edit and share videos in seconds. 
 
@@ -128,7 +128,7 @@ Wappalyzer is available for download on [chrome](https://chrome.google.com/webst
 #### <em>Availability</em>
 Screencastify is available for download on [chrome](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en) 
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/screencastify-extension.png)
+![Here is how the extension looks](https://github.com/NithinSGowda/extensions-4-every-developer/blob/master/screencastify-extension.png)
 
 9.Web Developer Checklist : This extension helps developers by providing a yardstick to test if they have followed best practices
 
@@ -141,7 +141,7 @@ Screencastify is available for download on [chrome](https://chrome.google.com/we
 #### <em>Availability</em>
 Web Developer checklist is available for download on [chrome](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/webdeveloperchecklist/)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/webdeveloper-checklist-extension.png)
+![Here is how the extension looks](https://github.com/NithinSGowda/extensions-4-every-developer/blob/master/webdeveloper-checklist-extension.png)
 
 10.What font : This extension makes it ridiculously easy to identify fonts used in a website.
 
@@ -154,7 +154,7 @@ Web Developer checklist is available for download on [chrome](https://chrome.goo
 #### <em>Availability</em>
 - What font is available for download on [chrome](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)and [mpzilla](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/whatfont-extension.png)
+![Here is how the extension looks](https://github.com/NithinSGowda/extensions-4-every-developer/blob/master/whatfont-extension.png)
 
 11.Web Developer : What a weird name for an extension. What it does is far from weird, though. This extension adds a toolbar button to the browser with various web developer tools.
 
@@ -166,4 +166,4 @@ Web Developer checklist is available for download on [chrome](https://chrome.goo
 ### <em>Availability</em>
 Web developer is available for download on [chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/web-developer-extension-2.png) 
+![Here is how the extension looks](https://github.com/NithinSGowda/extensions-4-every-developer/blob/master/web-developer-extension-2.png) 
